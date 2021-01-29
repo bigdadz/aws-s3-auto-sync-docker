@@ -1,0 +1,1 @@
+/usr/local/bin/aws --endpoint-url $AUTOSYNC_ENDPOINT s3 sync s3://$AUTOSYNC_BUCKET $AUTOSYNC_DIR

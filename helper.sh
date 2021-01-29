@@ -1,0 +1,1 @@
+docker run -it --env-file .env auto-sync
